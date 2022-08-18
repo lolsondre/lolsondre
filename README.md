@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lolsondre
 - 👀 I’m interested in UX, problemsolving, sailing, climbing and all the rest..
-- 🌱 I’m currently learning basic coding, javascript, css, and so on..
-- 💞️ I’m looking to collaborate on all kinds of interesting ideas and everything that will make our experience easier or better. 
+- 🌱 I’m currently learning basic coding, javascript, HTML, and so on..
+- 💞️ I’m looking to collaborate on all kinds of interesting ideas and everything that will make our experience easier and/or better. 
 - 📫 How to reach me: sondre@nessweb.no 
 
 <!---
